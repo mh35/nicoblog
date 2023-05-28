@@ -1,0 +1,2 @@
+class BlogLanguage < ApplicationRecord
+end
